@@ -70,6 +70,7 @@ CodeAlpha_ObjectDetection/
 👩‍💻 Author
 
 Alekya
+
 CodeAlpha Artificial Intelligence Internship
 
 
