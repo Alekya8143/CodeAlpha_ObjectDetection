@@ -68,9 +68,7 @@ CodeAlpha_ObjectDetection/
 * Autonomous Systems
 
 👩‍💻 Author
-
-Alekya
-
+  Alekya
 CodeAlpha Artificial Intelligence Internship
 
 
