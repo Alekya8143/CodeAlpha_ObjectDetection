@@ -7,9 +7,13 @@ The model can detect and identify objects from images or video in real time.
 Object detection is widely used in:
 
 ->Self-driving cars
+
 ->Security surveillance
+
 ->Smart traffic systems
+
 ->Face recognition systems
+
 This project was completed as part of the CodeAlpha Artificial Intelligence Internship.
 
 🎯 Features
@@ -39,6 +43,7 @@ This project was completed as part of the CodeAlpha Artificial Intelligence Inte
  git clone https://github.com/Alekya8143/CodeAlpha_ObjectDetection.git
  
 2️⃣ Navigate to the project folder
+
  cd CodeAlpha_ObjectDetection
  
 3️⃣ Install dependencies
@@ -50,7 +55,9 @@ This project was completed as part of the CodeAlpha Artificial Intelligence Inte
  python detect.py
 
 📂 Project Structure
+
 CodeAlpha_ObjectDetection/
+
 │── app.py
 │── yolov8n.pt
 │── requirements.txt
