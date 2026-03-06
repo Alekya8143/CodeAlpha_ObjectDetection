@@ -75,10 +75,15 @@ CodeAlpha_ObjectDetection/
 
  📸 Output
  The system detects objects and draws bounding boxes around them.
+ 
  Example detected objects:
+ 
  Person
+ 
  Car
+ 
  Dog
+ 
  Mobile Phone 
   
 🎯 Internship Task
