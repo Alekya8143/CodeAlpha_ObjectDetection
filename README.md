@@ -1,13 +1,18 @@
- 🚀 AI Object Detection & Tracking System
+CodeAlpha - Object Detection using AI
 
- CodeAlpha Internship Project
+📌 Project Overview
+This project implements Object Detection using Artificial Intelligence.
+The model can detect and identify objects from images or video in real time.
 
- 📌 Project Overview
+Object detection is widely used in:
 
-This project implements a **Real-Time AI Object Detection & Tracking System** using YOLOv8 and OpenCV.
-The system detects multiple objects through a webcam and assigns unique tracking IDs while monitoring performance metrics.
+->Self-driving cars
+->Security surveillance
+->Smart traffic systems
+->Face recognition systems
+This project was completed as part of the CodeAlpha Artificial Intelligence Internship.
 
- 🎯 Features
+🎯 Features
 
 * ✅ Real-time object detection
 * ✅ Object tracking with unique IDs
@@ -27,30 +32,17 @@ The system detects multiple objects through a webcam and assigns unique tracking
 
 🔗 https://Alekya8143.github.io/CodeAlpha_ObjectDetection/
 
- 🎥 Project Demo
+▶️ How to Run the Project
+1️⃣ Clone the repository
+ git clone https://github.com/Alekya8143/CodeAlpha_ObjectDetection.git
+2️⃣ Navigate to the project folder
+ cd CodeAlpha_ObjectDetection
+3️⃣ Install dependencies
+ pip install -r requirements.txt
+4️⃣ Run the detection program
+ python detect.py
 
-(Play video on the live site above)
-
- ⚙️ Run Locally
-
- 1️⃣ Clone Repository
-
-`bash
-git clone https://github.com/Alekya8143/CodeAlpha_ObjectDetection.git
-cd CodeAlpha_ObjectDetection
-
-2️⃣ Install Requirements
-bash
-pip install -r requirements.txt
-
-
- 3️⃣ Run Project
-`bash
-python app.py
-
- 📂 Project Structure
-
-
+📂 Project Structure
 CodeAlpha_ObjectDetection/
 │── app.py
 │── yolov8n.pt
@@ -67,10 +59,20 @@ CodeAlpha_ObjectDetection/
 * Crowd Management
 * Autonomous Systems
 
+ 📸 Output
+ The system detects objects and draws bounding boxes around them.
+ Example detected objects:
+ Person
+ Car
+ Dog
+ Mobile Phone 
+  
+🎯 Internship Task
+ This project was developed as part of the CodeAlpha Artificial Intelligence Internship Program.
+
 👩‍💻 Author
 
-  Alekya
-  
-CodeAlpha Artificial Intelligence Internship
+ Alekya Golla
+ CodeAlpha Artificial Intelligence Internship
 
 
