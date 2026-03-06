@@ -33,13 +33,20 @@ This project was completed as part of the CodeAlpha Artificial Intelligence Inte
 🔗 https://Alekya8143.github.io/CodeAlpha_ObjectDetection/
 
 ▶️ How to Run the Project
+
 1️⃣ Clone the repository
+ 
  git clone https://github.com/Alekya8143/CodeAlpha_ObjectDetection.git
+ 
 2️⃣ Navigate to the project folder
  cd CodeAlpha_ObjectDetection
+ 
 3️⃣ Install dependencies
+ 
  pip install -r requirements.txt
+ 
 4️⃣ Run the detection program
+ 
  python detect.py
 
 📂 Project Structure
@@ -68,11 +75,13 @@ CodeAlpha_ObjectDetection/
  Mobile Phone 
   
 🎯 Internship Task
+
  This project was developed as part of the CodeAlpha Artificial Intelligence Internship Program.
 
 👩‍💻 Author
 
  Alekya Golla
+ 
  CodeAlpha Artificial Intelligence Internship
 
 
