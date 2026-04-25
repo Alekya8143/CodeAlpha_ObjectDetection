@@ -73,18 +73,16 @@ CodeAlpha_ObjectDetection/
 * Crowd Management
 * Autonomous Systems
 
- 📸 Output
- The system detects objects and draws bounding boxes around them.
- 
- Example detected objects:
+## 📷 Output
+Real-time object detection and tracking using YOLO and OpenCV.
 
- Person
- 
- Car
- 
- Dog
- 
- Mobile Phone 
+![Output](output.png)
+
+## 💡 Use Cases
+- Smart surveillance systems
+- Object monitoring in real-time
+- Traffic analysis
+- Security applications
   
 🎯 Internship Task
 
